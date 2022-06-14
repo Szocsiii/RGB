@@ -6,7 +6,6 @@ void setup() {
 }
 void loop() {
  unsigned int rgbColour[3];
- // Start off with red.
  rgbColour[0] = 255;
  rgbColour[1] = 0;
  rgbColour[2] = 0;  
